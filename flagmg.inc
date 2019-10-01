@@ -1,3 +1,4 @@
+/* License: https://github.com/Kalendarky/Licenses/blob/master/v1/README.md */
 #if defined _flagmg_included
 	#endinput
 #endif
